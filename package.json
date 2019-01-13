@@ -1,14 +1,14 @@
 {
-  "name": "company-website",
+  "name": "companywebsite",
   "version": "1.0.0",
-  "description": "Dimension by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "description": "spade software company website",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "script": "node app.js"
   },
   "author": "Sean Teodosio",
-  "license": "ISC",
+  "license": "CCA",
   "dependencies": {
     "express": "^4.16.4"
   }
